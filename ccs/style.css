@@ -153,6 +153,12 @@ h3 {
   font-style: italic;
 }
 
-.code-example em {
-  font-style: normal;
+.code-example pre {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1.2em;
+  color: var(--pure-white);
+  background-color: var(--accent);
+  border-radius: 8px;
 }
